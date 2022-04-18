@@ -1,0 +1,33 @@
+#externalCSS{
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(#B4CFB0,#E5E3C9,#94B49F);
+    background-repeat: no-repeat;
+}
+#divStyle{
+        display: block;
+        position: absolute;
+        left: 200px;
+        margin: 50px 0 0 50px;
+        width : 450px;
+        height : 350px;
+        border : 2px solid black;
+        border-radius : 50px;
+        text-align : center;
+        padding-top : 50px;
+        background-color : aqua;
+}
+#divStyleClass{
+        display: block;
+        position: absolute;
+        left: 800px;
+        margin: 50px 0 0 50px;
+        width : 450px;
+        height : 350px;
+        border : 2px solid black;
+        border-radius : 50px;
+        text-align : center;
+        padding-top : 50px;
+        background-color : rgb(188, 164, 211);
+}
